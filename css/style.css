@@ -136,7 +136,7 @@ header .container .navbar li a i {
 }
 /* ===== Landing ===== */
 .landing {
-  height: 100vh;
+  height: 100dvh;
   min-height: 430px;
   background-image: url(../images/home_bg.jpeg);
   position: relative;
@@ -520,7 +520,7 @@ footer a:hover {
 }
 /* ===== Mobile Navbar ===== */
 .mobile-navbar {
-  height: 100dvb;
+  min-height: 100dvh;
   width: 80%;
   padding: 12px 6px;
   background: var(--warning-color);
